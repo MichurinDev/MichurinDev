@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @MichurinDev, Michurin Andrey
+<h1 align="center">Hi there, I'm <a href="https://github.com/MichurinDev" target="_blank">Andrey</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 - 👀 I’m interested in developing desktop applications, Telegram bots and creating games for different platforms
 - 🌱 I’m currently learning programming languages such as Python and C#
 - 📫 How to reach me: Inst: @michurinak_official
