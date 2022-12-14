@@ -10,10 +10,10 @@ I can:
 * :white_check_mark: Create uncomplicated telegram bots
 * :white_check_mark: Create computational programs for Windows OS
 * :white_check_mark: Reinstall Windows =)
+* :white_check_mark: Work with JSON
 
 I want to learn:
 * :black_square_button: Create applications in virtual and augmented reality
 * :black_square_button: Create server applications
-* :black_square_button: Work with JSON
 
 **I will be glad to any cooperation and support =)**
