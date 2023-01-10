@@ -16,18 +16,14 @@
 <a href="https://github.com/MichurinDev"><img src="/prof.png"></a>
 
 # I can
-:white_check_mark: Create uncomplicated telegram bots
-
-:white_check_mark: Create computational programs for Windows OS
-
-:white_check_mark: Reinstall Windows =)
-
-:white_check_mark: Work with JSON
-
-:white_check_mark: Create applications in virtual and augmented reality
+:white_check_mark: Create Telegram bots<br><br>
+:white_check_mark: Create computational programs for Windows OS<br><br>
+:white_check_mark: Reinstall Windows =)<br><br>
+:white_check_mark: Work with JSON<br><br>
+:white_check_mark: Create applications in virtual and augmented reality<br><br>
+:white_check_mark: Develop UI/UX design<br><br>
 
 ## I want to learn
-
 :black_square_button: Create server applications
 
 # My Best Projects
