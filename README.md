@@ -16,11 +16,11 @@
 <a href="https://github.com/MichurinDev"><img src="/prof.png"></a>
 
 # I can
-:white_check_mark: Create Telegram bots<br><br>
-:white_check_mark: Create computational programs for Windows OS<br><br>
+:white_check_mark: Develop Telegram bots<br><br>
+:white_check_mark: Develop computational programs for Windows OS<br><br>
 :white_check_mark: Reinstall Windows =)<br><br>
 :white_check_mark: Work with JSON<br><br>
-:white_check_mark: Create applications in virtual and augmented reality<br><br>
+:white_check_mark: Develop applications in virtual and augmented reality<br><br>
 :white_check_mark: Develop UI/UX design<br><br>
 
 ## I want to learn
