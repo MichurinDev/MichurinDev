@@ -1,18 +1,10 @@
+[![wakatime](https://wakatime.com/badge/user/0708a1e0-034c-4c66-af71-c2b422a2dd8f.svg)](https://wakatime.com/@0708a1e0-034c-4c66-af71-c2b422a2dd8f)
+<br>
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/MichurinDev?tab=repositories&q=&type=&language=python&sort=)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/MichurinDev?tab=repositories&q=&type=&language=c%23&sort=)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michurin_offic)<br>
-[![wakatime](https://wakatime.com/badge/user/0708a1e0-034c-4c66-af71-c2b422a2dd8f.svg)](https://wakatime.com/@0708a1e0-034c-4c66-af71-c2b422a2dd8f)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/michurin_offic)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Projects+develop+our+world;Further+more)](https://vk.com/michurinak_official)
-
-<!-- <h1>Hi there, I'm <a href="https://github.com/MichurinDev" target="_blank">Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
-
-<!-- <h2 align="center">
-  <a href="https://github.com/stars/MichurinDev/lists/my-teams-project">
-    Projects with my teams
-  </a>
-</h2> -->
 
 <a href="https://github.com/MichurinDev"><img src="/prof.png"></a>
 
